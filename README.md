@@ -15,25 +15,25 @@
 git clone https://github.com/mirageapache/ADBERT_Exam1.git
 ```
 
-2.安裝 npm
+2. 安裝 npm
 
 ```
 npm install
 ```
 
-3.啟動程式
+3. 啟動程式
 
 ```
 npm start
 ```
 
-4.瀏覽網頁
+4. 瀏覽網頁
 
 ```
 瀏覽器將自動開啟網頁，如未正常開啟請輸入http://localhost:3000/，即可使用
 ```
 
-5.終止程式
+5. 終止程式
 
 ```
 在終端機按下兩次 ctrl + C 即可終止程式
