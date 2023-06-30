@@ -4,6 +4,7 @@
 
 - npm - 8.5.0
 - react - 18.2.0
+- react-redux - 8.1.1
 - @mui/material - 5.13.6
 - @emotion/react - 11.11.1
 
